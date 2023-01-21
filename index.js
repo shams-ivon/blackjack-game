@@ -1,5 +1,5 @@
 let player = {
-  firstName : "Shams",
+  firstName : "Player",
   money : 0
 };
 
